@@ -9,7 +9,7 @@
   
   
    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot</artifactId>
+    <artifactId>spring-boot-tomcat</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
